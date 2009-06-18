@@ -3,8 +3,8 @@
 == Compilation and installation
   This project uses rake to build and install the application
 
-  "rake" 		- This will compile the application
-  "rake setup" 		- This will download sample images
+  "rake"		- This will compile the application
+  "rake setup"		- This will download sample images
   "rake run"		- This will run the application with downloaded images
 
 == Required Dependencies
