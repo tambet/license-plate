@@ -1,0 +1,21 @@
+= Automatic Licence Plate Recognition System
+
+== Compilation and installation
+  This project uses rake to build and install the application
+
+  "rake" 		- This will compile the application
+  "rake setup" 		- This will download sample images
+  "rake run"		- This will run the application with downloaded images
+
+== Required Dependencies
+  The ALPR system depends on several other libraries that you will 
+  need install, if they're not already present on your system. 
+   
+  * OpenCV computer vision library
+  * Tesseract OCR
+
+== Links
+
+  OpenCV			- http://sourceforge.net/projects/opencvlibrary/
+  OpenCV Wiki			- http://opencv.willowgarage.com/wiki/
+  Tesseract OCR 		- http://code.google.com/p/tesseract-ocr/
