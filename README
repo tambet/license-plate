@@ -1,6 +1,6 @@
-= Automatic Licence Plate Recognition System
+= Automatic License Plate Recognition System
 
-== Compilation and installation
+== Compilation and Installation
   This project uses rake to build and install the application
 
   "rake"		- This will compile the application
