@@ -1,4 +1,4 @@
-require 'src/plate_downloader'
+require_relative 'src/plate_downloader'
 
 SRC_DIR = 'src'
 BIN_DIR = 'bin'
